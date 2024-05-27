@@ -9,7 +9,7 @@ public class Conexao {
 	private static final String driver = "com.mysql.cj.jdbc.Driver";
 	private static final String url = "jdbc:mysql://localhost:3306/stockprox";
 	private static final String user = "root";
-	private static final String password = "436824Mysql!";
+	private static final String password = "XXXXXXX";
 	
 	
 	public static Connection getConexao(){
